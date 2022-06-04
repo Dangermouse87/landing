@@ -1,0 +1,21 @@
+.container > h2 {
+  text-align: center;
+  margin-top: 24px;
+}
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card img {
+  height: 300px;
+  width: 300px;
+}
+
+.card {
+  padding: 0px 100px;
+  text-align: center;
+  width: 300px;
+}

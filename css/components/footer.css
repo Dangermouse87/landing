@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.footer h3 {
+  padding: 16px;
+}
+
+.icons {
+  margin: 0;
+  padding: 16px 16px 0px;
+  list-style: none;
+}
+
+.icons > li {
+  display: inline-flex;
+  padding: 0px 24px;
+  justify-content: space-evenly;
+}
+
+.fa-brands {
+  color: white
+}
+
+.fa-regular {
+  color: red;
+}
